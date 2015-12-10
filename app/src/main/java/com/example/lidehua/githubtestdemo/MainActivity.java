@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         //更多符合规定
-        //zhujie2
+        //zhujie2发多少个电饭锅
+
     }
 }
